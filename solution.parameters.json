@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "Location": {
-            "value": ""
+            "value": "eastus"
         },
         "NamePrefix": {
-            "value": ""
+            "value": "training"
         },
         "NumberOfVms": {
-            "value": 1
+            "value": 2
         },
         "ScriptUri": {
-            "value": ""
+            "value": "https://raw.githubusercontent.com/Proletter/avd_config/main/script.ps1"
         },
         "VirtualMachineIndex": {
             "value": 0
